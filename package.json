@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jfcere/ngx-malihu-scrollbar"
+    "url": "https://github.com/akambi/ngx-malihu-scrollbar"
   },
   "keywords": [
     "angular",
@@ -46,7 +46,7 @@
     "@types/mcustomscrollbar": "^2.8.30",
     "core-js": "^2.4.1",
     "jquery": "^2.2.4",
-    "malihu-custom-scrollbar-plugin": "^3.1.5",
+    "malihu-custom-scrollbar-plugin": "https://github.com/akambi/malihu-custom-scrollbar-plugin.git",
     "rxjs": "^5.0.1",
     "ts-helpers": "^1.1.1",
     "zone.js": "^0.7.2"
